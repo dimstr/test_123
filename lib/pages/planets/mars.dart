@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:space_vestnik/api/images/fetch_news.dart';
-import 'package:space_vestnik/pages/utils/grid_images.dart';
+import 'package:space_herald/api/images/fetch_news.dart';
+import 'package:space_herald/pages/utils/grid_images.dart';
 
 class MarsPage extends StatefulWidget {
   const MarsPage({Key? key}) : super(key: key);

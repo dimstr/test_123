@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766314191124",
+    "project_id": "space-herald",
+    "storage_bucket": "space-herald.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766314191124:android:5c69f54e5bee9313158a01",
+        "android_client_info": {
+          "package_name": "com.example.space_herald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766314191124-m341385bo8qtt09g1ejgbmlti02s17rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeQIpWIRTmlgDTNlCqbVncKPhxA4soxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766314191124-m341385bo8qtt09g1ejgbmlti02s17rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

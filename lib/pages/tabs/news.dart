@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:space_vestnik/pages/utils/newsList.dart';
+import 'package:space_herald/pages/utils/newsList.dart';
 import '../../api/news/fetch_news.dart';
 
 class News extends StatefulWidget {

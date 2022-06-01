@@ -39,6 +39,8 @@ dependencies:
   flutter_markdown:
   modal_bottom_sheet:
   animations:
+  firebase_core:
+  cloud_firestore:
 
 
 dev_dependencies:

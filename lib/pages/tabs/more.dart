@@ -2,10 +2,10 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:http/http.dart' as http;
-import 'package:space_vestnik/pages/planets/earth.dart';
-import 'package:space_vestnik/pages/planets/jupiter.dart';
-import 'package:space_vestnik/pages/planets/mars.dart';
-import 'package:space_vestnik/pages/planets/planet_with_description.dart';
+import 'package:space_herald/pages/planets/earth.dart';
+import 'package:space_herald/pages/planets/jupiter.dart';
+import 'package:space_herald/pages/planets/mars.dart';
+import 'package:space_herald/pages/planets/planet_with_description.dart';
 import 'package:animations/animations.dart';
 
 class More extends StatefulWidget {
