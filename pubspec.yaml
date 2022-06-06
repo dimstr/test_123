@@ -37,7 +37,7 @@ dependencies:
   webview_flutter: ^3.0.4
   webview_flutter_web: ^0.1.0+3
   flutter_markdown: ^0.6.10+2
-  modal_bottom_sheet:
+  modal_bottom_sheet: ^2.0.1
   animations:
   firebase_core:
   cloud_firestore:
