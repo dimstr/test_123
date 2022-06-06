@@ -39,8 +39,8 @@ dependencies:
   flutter_markdown: ^0.6.10+2
   modal_bottom_sheet: ^2.0.1
   animations: ^2.0.3
-  firebase_core:
-  cloud_firestore:
+  firebase_core: ^1.17.1
+  cloud_firestore: ^3.1.17
 
 
 dev_dependencies:
